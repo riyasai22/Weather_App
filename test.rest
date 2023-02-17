@@ -1,0 +1,8 @@
+
+
+GET https://wft-geo-db.p.rapidapi.com/v1/geo/cities?minPopulation=1000000&namePrefix=delhi;
+
+{
+    "X-RapidAPI-Key": "ec3bdade4dmsh62bc588dc055ab8p1a5e8djsn1aff0852c42c",
+    "X-RapidAPI-Host": "wft-geo-db.p.rapidapi.com"
+}
