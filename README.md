@@ -1,5 +1,4 @@
 # Weather_App
-Task1 Frontend Trademarkia
 
 ![image](https://user-images.githubusercontent.com/80235375/219534961-876a2d98-7eb1-43f6-b21d-cf28e987acce.png)
 
